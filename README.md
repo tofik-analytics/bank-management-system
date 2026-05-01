@@ -14,9 +14,3 @@ A simple CLI-based banking system built in Python.
 
 ## How to Run
 python main.py
-Bank_system.png
-Account_Create.png
-Deposite_Ammount.png
-Withdrawal_Amount.png
-Check_Balance.png
-
